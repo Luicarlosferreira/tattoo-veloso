@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { ScrollToTop } from "./ScrollToTop";
-import { Fade } from "react-awesome-reveal";
-import { Header } from "../Components/Header";
+import { Header } from "../components/Header";
 import { Works } from "../pages/works/index";
 import { Home } from "../pages/home/index";
 import { Footer } from "../components/footer/index";
