@@ -48,7 +48,7 @@ export const Home = () => {
               <p>
                 Olá, me chamo Allan Veloso, tenho 26 anos e sou Tatuador atuando
                 na Região Oceânica em Niteroi, Rio de Janeiro. Meus principais
-                trabalhos são com:
+                trabalhos são utilizados:
                 <br />
                 <br />
                 <span className="spanSkills">
