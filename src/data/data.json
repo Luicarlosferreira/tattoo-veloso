@@ -3,22 +3,22 @@
     {
       "review": "Avaliação do cliente",
       "avaliation": "Com Allan tive um excelente atendimento. Satisfeito estou com toda a certeza. Além de atencioso, está sempre de ouvidos abertos ao que o cliente tem a opinar sobre o trabalho na pele.",
-      "image": "src/assets/images/icon/female.png"
+      "image": "/assets/images/icon/female.png"
     },
     {
       "review": "Avaliação do cliente",
       "avaliation": "Agradeço muito ao Allanzinho. Além de uma pessoa maravilhosa e cheia de luz, sabe o que está fazendo. Nos traz confiança pra poder rabiscar a pele com vontade. Obrigado, mestre!",
-      "image": "src/assets/images/icon/male.png"
+      "image": "/assets/images/icon/male.png"
     },
     {
       "review": "Avaliação do cliente",
       "avaliation": "Allan é incrível. Baita profissional, muita luz e sucesso sempre. Obrigado por rabiscar minha pele lançando só o que é fantástico.",
-      "image": "src/assets/images/icon/female.png"
+      "image": "/assets/images/icon/female.png"
     },
     {
       "review": "Avaliação do cliente",
       "avaliation": "Allan é o cara! Mega profissional. Obrigado por me proporcionar uma experiência única com a tattoo incrível que eternizamos em mim.",
-      "image": "src/assets/images/icon/male.png"
+      "image": "/assets/images/icon/male.png"
     }
   ]
 }

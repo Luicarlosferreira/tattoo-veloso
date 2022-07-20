@@ -16,7 +16,7 @@ export const Home = () => {
             </div>
             <div className="imageContentInfo">
               <img
-                src="\src\assets\images\machineLogo.svg"
+                src="/assets/images/machineLogo.svg"
                 alt="Imagem de caneta para tattoo"
               />
             </div>
@@ -26,15 +26,15 @@ export const Home = () => {
         <div className="infoImageContent">
           <Zoom>
             <img
-              src="\src\assets\images\perfil.jpg"
+              src="/assets/images/perfil.jpg"
               alt="Imagem de perfil para apresentação"
             />
             <img
-              src="\src\assets\images\perfilOne.jpg"
+              src="/assets/images/perfilOne.jpg"
               alt="Imagem de perfil para apresentação"
             />
             <img
-              src="\src\assets\images\perfilTwo.jpg"
+              src="/assets/images/perfilTwo.jpg"
               alt="Imagem de perfil para apresentação"
             />
           </Zoom>
@@ -67,7 +67,7 @@ export const Home = () => {
           <Fade delay={200}>
             <div className="aboutMeImage">
               <img
-                src="\src\assets\job\aboutMe.jpg"
+                src="/assets/job/aboutMe.jpg"
                 alt="Imagem de perfil do profissional"
               />
             </div>

@@ -9,7 +9,7 @@ export const Works = () => {
         <Fade>
           <h2>Trabalhos Realizados</h2>
           <img
-            src="src\assets\images\icon\tattooPen.png"
+            src="/assets/images/icon/tattooPen.png"
             alt="Logo Caneta para Tatuar."
           />
         </Fade>

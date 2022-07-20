@@ -17,23 +17,23 @@ export const ClientReview = () => {
                 <div className="cAvaliation">
                   <div className="starsReview">
                     <img
-                      src="src\assets\images\star.png"
+                      src="/assets/images/star.png"
                       alt="Satisfação do cliente em estrelas"
                     />
                     <img
-                      src="src\assets\images\star.png"
+                      src="/assets/images/star.png"
                       alt="Satisfação do cliente em estrelas"
                     />
                     <img
-                      src="src\assets\images\star.png"
+                      src="/assets/images/star.png"
                       alt="Satisfação do cliente em estrelas"
                     />
                     <img
-                      src="src\assets\images\star.png"
+                      src="/assets/images/star.png"
                       alt="Satisfação do cliente em estrelas"
                     />
                     <img
-                      src="src\assets\images\star.png"
+                      src="/assets/images/star.png"
                       alt="Satisfação do cliente em estrelas"
                     />
                   </div>
