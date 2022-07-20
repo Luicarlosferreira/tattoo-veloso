@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { ScrollToTop } from "./ScrollToTop";
-import { Header } from "../components/Header";
+// import { Header } from "../components/Header";
 import { Works } from "../pages/works/index";
 import { Home } from "../pages/home/index";
 import { Footer } from "../components/footer/index";
@@ -10,7 +10,7 @@ import { ModalSubmit } from "../components/modalSubmit/index";
 export const Router = () => {
   return (
     <BrowserRouter>
-      <Header />
+      {/* <Header /> */}
 
       <ScrollToTop>
         <Routes>
